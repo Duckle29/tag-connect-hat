@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tag-connect-hat-rescue)(type Legacy)(uri ${KIPRJMOD}/tag-connect-hat-rescue.lib)(options "")(descr ""))
+)
